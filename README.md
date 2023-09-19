@@ -30,10 +30,3 @@ npx solhint 'contracts/**/*.sol' --fix
 npx eslint '**/*.{js,ts}'
 npx eslint '**/*.{js,ts}' --fix
 ```
-
-## Prettier
-
-```
-npx prettier '**/*.{json,sol,md}' --check
-npx prettier '**/*.{json,sol,md}' --write
-```

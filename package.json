@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xcuonghx/hardhat-typescript-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "cuonghx-gutech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xcuonghx/hardhat-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/0xcuonghx/hardhat-typescript-boilerplate#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.3"
+  }
+}

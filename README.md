@@ -6,6 +6,7 @@
 - [x] Eslint
 - [x] Prettier
 - [x] NatSpec
+- [x] husky
 
 # Command
 

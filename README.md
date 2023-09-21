@@ -5,6 +5,7 @@
 - [x] Solhint
 - [x] Eslint
 - [x] Prettier
+- [x] NatSpec
 
 # Command
 
@@ -29,4 +30,9 @@ npx solhint 'contracts/**/*.sol' --fix
 ```
 npx eslint '**/*.{js,ts}'
 npx eslint '**/*.{js,ts}' --fix
+```
+
+## NatSpec
+```
+npx hardhat docgen
 ```

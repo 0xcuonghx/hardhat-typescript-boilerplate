@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "hardhat test",
-    "clean": "hardhat clean"
+    "clean": "hardhat clean",
+    "doc": "hardhat docgen"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "hardhat": "^2.17.3",
+    "solidity-docgen": "^0.6.0-beta.36",
     "typescript": "^5.2.2"
   }
 }
